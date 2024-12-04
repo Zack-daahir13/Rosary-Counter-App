@@ -1,4 +1,4 @@
-🌟 Welcome To Rosary App 🕋✨
+🌟 Welcome To Rosary App 🕋✨ {/n}
 App fudud oo casri ah oo kaa caawinaya tirinta tasbiixdaada iyadoo la isticmaalayo cod xasuusin shimbir.
 
 📋 Introduction
