@@ -34,7 +34,8 @@ Copy code
 npm start
 💡 Soo Bandhig Appka
 Halkan hoose ka eeg muuqaalka App-ka:
-![image](https://github.com/user-attachments/assets/24f5a558-8bfc-471a-9649-4fd51d100384)
+![image](https://github.com/user-attachments/assets/e4705f90-5065-4584-8c6b-e22f58989797)
+
 
 📬 Contact Me
 App-kan waxaa sameeyey Zack Daahir si aan ufududeeyo tasbiixdaada. Haddii aad wax su’aalo ah ama talo bixin ah haysato, si xor ah iigu soo qor:
